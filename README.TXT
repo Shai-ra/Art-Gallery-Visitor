@@ -1,8 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+A comprehensive Java-based desktop application for managing an art gallery's visitors, artwork transactions, and administrative operations. This system provides a user-friendly GUI interface built with Java Swing for efficient gallery management.
 
 PROJECT TITLE:
 PURPOSE OF PROJECT:
