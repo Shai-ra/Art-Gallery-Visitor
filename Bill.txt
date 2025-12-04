@@ -1,0 +1,25 @@
+============================================
+              ART GALLERY BILL
+============================================
+Bill Date: 2025-08-29
+Bill Time: 09:54:27.410820900
+--------------------------------------------
+Visitor ID: 3
+Visitor Name: test three
+Visitor Type: Standard
+--------------------------------------------
+PURCHASED ARTWORKS:
+--------------------------------------------
+Artwork: null
+  Original Price: Rs. 0.00
+  Discount: Rs. 0.00
+  Final Price: Rs. 0.00
+--------------------------------------------
+TOTAL ORIGINAL PRICE: Rs. 0.00
+TOTAL DISCOUNT: Rs. 0.00
+TOTAL FINAL PRICE: Rs. 0.00
+--------------------------------------------
+REWARD POINTS EARNED: 0.0
+============================================
+          Thank you for your visit!
+============================================
